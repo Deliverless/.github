@@ -17,7 +17,15 @@ I'm best reached via [email](https://marcinkoziel.ca/portfolio#contact). I'm alw
 
 #### Socials:
 
+
 Marcin Koziel
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-koziel/)
 
+Nick De Luca
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickdelu/)
+
+Chris Couto
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher--couto)
